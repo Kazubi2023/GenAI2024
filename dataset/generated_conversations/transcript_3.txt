@@ -1,0 +1,41 @@
+Date: May 20, 2024
+Time: 2:30 PM - 4:00 PM (EST)
+Platform: Microsoft Teams
+
+Meeting Participants:
+
+John
+Sarah
+Michael
+Emily
+John: Alright, folks, let's tackle the issue with the data schema. It seems to be causing compatibility issues with the consumer API.
+
+Sarah: I've been digging into it, and it looks like the problem stems from the way we're structuring the data on our end.
+
+Michael: Yeah, I noticed that too. It seems like the current schema doesn't align with what the API expects.
+
+John: So, what do you suggest we do about it?
+
+Sarah: I think we need to reevaluate our data model and make adjustments to ensure compatibility with the API.
+
+Emily: Do we have any insights from the API team on what specific changes they need from us?
+
+John: Not yet. I'll reach out to them after this meeting to get more clarity on their requirements.
+
+Michael: In the meantime, I can start working on a revised data schema based on our initial discussions.
+
+John: Sounds like a plan. Sarah, could you also check if there are any relevant documentation or guidelines from the API team that we can refer to?
+
+Sarah: Sure thing, John. I'll do that right away.
+
+John: Thanks, Sarah. And Michael, as you work on the data schema, keep in mind any potential impacts on our existing systems.
+
+Michael: Will do. I'll make sure to document any changes and communicate them to the team.
+
+Emily: It might also be a good idea to coordinate with the testing team to ensure thorough testing of the new schema.
+
+John: Agreed. Let's loop in the testing team and schedule a meeting to discuss our testing strategy once we have a draft of the revised schema.
+
+Sarah: I'll take care of scheduling the meeting and informing the testing team about our plans.
+
+John: Perfect. Let's aim to have a follow-up meeting later this week to review the progress and make any necessary adjustments.
