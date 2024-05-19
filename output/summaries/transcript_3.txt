@@ -1,0 +1,4 @@
+
+Here is a summary of the meeting notes:
+
+The meeting discussed the issue of compatibility between the data schema and the consumer API. It was determined that the current schema needs to be reevaluated and adjusted to align with the API's requirements. Sarah will check for relevant documentation or guidelines from the API team. Michael will work on a revised data schema, considering any potential impacts on existing systems. Emily suggested coordinating with the testing team to ensure thorough testing of the new schema. The testing team will be looped in, and a follow-up meeting will be scheduled later this week to review the progress and make any necessary adjustments.
