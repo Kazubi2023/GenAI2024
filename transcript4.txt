@@ -1,0 +1,65 @@
+Transcription of Corporate Call on Backend Changes for Data Retrieval
+
+Date: May 18, 2024
+Time: 2:00 PM - 3:00 PM (EST)
+Platform: Microsoft Teams
+
+Alice Johnson (Project Manager): Hi everyone, thanks for joining. Today, we need to discuss the backend changes for how data is being pulled from the database. Bob, can you start us off with a development update?
+
+Bob Smith (Lead Developer): Sure, Alice. We've started reworking the data retrieval processes to improve efficiency and reduce load times. We've implemented the first phase and are running initial tests.
+
+Alice Johnson: Great. Emma, how is this impacting the user interface?
+
+Emma Brown (UX Designer): So far, the changes are seamless on the front end. However, we'll need to do some additional testing once the backend changes are fully integrated to ensure there are no disruptions to the user experience.
+
+Alice Johnson: Understood. Carol, can you give us an update on the data handling?
+
+Carol Davis (Data Scientist): We’ve been analyzing the new data retrieval methods and they seem to be more efficient. However, we need more detailed performance metrics to ensure there are no issues with data integrity or speed.
+
+Alice Johnson: Excellent. Frank, what's the status on QA?
+
+Frank Harris (QA Engineer): We’ve started drafting test cases for the new data retrieval methods. Initially, we're focusing on performance and accuracy. We'll expand our testing to cover all possible data scenarios once the initial tests are complete.
+
+Alice Johnson: Perfect. Grace, any updates from the product side?
+
+Grace Walker (Product Owner): Overall, the backend changes look promising. We need to ensure that these changes comply with our data governance policies. I’ll coordinate with the compliance team to review the new methods. Also, we should start drafting the communication plan for these changes to our stakeholders.
+
+Alice Johnson: Absolutely, Grace. Let's set up a session next week to discuss compliance and the communication plan.
+
+Grace Walker: I'll work with the compliance team and propose a time for the meeting.
+
+Alice Johnson: Sounds good. Oh, wait. Actually, I’m reconsidering the tasks I just assigned. Given the complexity of these changes, let’s take a different approach. Bob, instead of moving forward with the full implementation, I want you to focus on a detailed impact analysis first. This should highlight any potential risks.
+
+Bob Smith: Got it, Alice. I’ll start on that impact analysis and get it done by the end of the week.
+
+Alice Johnson: Thanks, Bob. Emma, I need you to draft a potential UI change log based on the impact analysis results once Bob is done.
+
+Emma Brown: Will do, Alice. I’ll wait for Bob’s analysis before proceeding.
+
+Alice Johnson: Carol, I’ll need you to verify the data integrity once we have the new analysis results. Make sure all metrics are covered.
+
+Carol Davis: Sure thing, Alice. I’ll coordinate with Bob to get the necessary data.
+
+Alice Johnson: Frank, I need you to prepare an extended test plan based on the impact analysis results as well. We want to be thorough here.
+
+Frank Harris: Understood. I’ll adjust our test cases accordingly.
+
+Alice Johnson: Grace, please prepare a detailed change request to document all these new tasks and ensure everyone signs off on it. And also, draft emails for stakeholder communication about the revised plan.
+
+Grace Walker: On it, Alice. I’ll send out the change request and draft the emails after this meeting.
+
+Alice Johnson: Perfect. Any other questions or concerns?
+
+David Lee (AI Specialist): Just to clarify, are we pausing the current testing until the impact analysis is complete?
+
+Alice Johnson: Yes, David. Let’s pause current testing and focus on the impact analysis first. This way, we ensure we're covering all bases.
+
+David Lee: Got it. Thanks, Alice.
+
+Alice Johnson: If there are no other questions, we’ll wrap up. Thanks for your flexibility and hard work, everyone. Let’s keep pushing forward!
+
+All Participants: Thanks, Alice!
+
+Alice Johnson: Talk to you all soon. Have a great day!
+
+Meeting Adjourned: 3:00 PM (EST)
