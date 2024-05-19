@@ -1,0 +1,47 @@
+Date: May 18, 2024
+Time: 2:00 PM - 3:00 PM (EST)
+Platform: Microsoft Teams
+
+Alice Johnson (Project Manager): Hi everyone, thanks for joining. Let's dive right in. Bob, can you start with the development update?
+
+Bob Smith (Lead Developer): Sure, Alice. We've made good progress on the initial build. The core functionalities are in place, and we’re integrating the latest GENAI models. Right now, we're focusing on optimizing the algorithms for various scenarios.
+
+Alice Johnson: Great to hear. Carol, how’s the data side of things?
+
+Carol Davis (Data Scientist): We've cleaned and preprocessed a large dataset for training. Next up is fine-tuning the models. David and I are set to run some initial tests later this week.
+
+David Lee (AI Specialist): Yep, we’re planning to start testing on Thursday. We'll keep a close eye on the results and make adjustments as necessary.
+
+Alice Johnson: Awesome. Emma, can you give us an update on the UX design?
+
+Emma Brown (UX Designer): We've finalized the UI mockups and are working on the user flow. The team is creating interactive prototypes for user testing. We’ll need feedback from the dev team to ensure alignment with technical constraints.
+
+Bob Smith: Emma, let’s set up a call tomorrow to go over the technical details and support your design requirements.
+
+Emma Brown: Sounds good, Bob. I'll send out an invite after this meeting.
+
+Alice Johnson: Perfect. Frank, what’s the status on QA?
+
+Frank Harris (QA Engineer): We've started drafting test cases based on the current build. Initially, we’re focusing on functionality and performance tests. Once integration is done, we’ll cover edge cases and user scenarios.
+
+Alice Johnson: Excellent. Grace, any updates from a product perspective?
+
+Grace Walker (Product Owner): Things are looking good. We need to focus on meeting compliance requirements. I’ll be working with the legal team to ensure we’re covered. Also, we should start planning our go-to-market strategy.
+
+Alice Johnson: Good point. Let’s schedule a session next week to discuss compliance and marketing in detail.
+
+Grace Walker: I’ll coordinate with the legal team and propose a time.
+
+Alice Johnson: Thanks, Grace. Any other questions or concerns?
+
+David Lee: Quick question about resources for the testing phase. Do we have enough server bandwidth to handle the load?
+
+Bob Smith: We’ve provisioned extra resources. If needed, we can request more from IT.
+
+Alice Johnson: Good to know. Let’s keep an eye on resource usage. If there are no other questions, we’ll wrap up. Thanks for your hard work, everyone. Let’s keep the momentum going!
+
+All Participants: Thanks, Alice!
+
+Alice Johnson: Talk to you all soon. Have a great day!
+
+Meeting Adjourned: 3:00 PM (EST)
