@@ -1,0 +1,50 @@
+# Importing necessary libraries
+import streamlit as st
+
+# Function to simulate a pipeline processing a customer ID
+def process_customer_id(customer_id):
+    # Simulate data processing
+    return f"Results for customer ID: {customer_id}"
+
+# Function to simulate getting recommendations for a customer ID
+def recommend_for_customer(customer_id):
+    # Simulate recommendation generation
+    return f"Recommendations for customer ID: {customer_id}"
+
+# Streamlit app
+def main():
+    # Set the title of the Streamlit app
+    st.title("Customer Pipeline and Recommendations")
+
+    # Input box for customer ID
+    customer_id = st.text_input("Enter Customer ID:", "")
+
+    # Define a container to display results
+    results_container = st.empty()
+    
+    # Define a container to display recommendations
+    recommendation_container = st.empty()
+
+    # Button to run the pipeline and get results
+    if st.button("Get Results"):
+        if customer_id:
+            # Run the pipeline and get the results
+            results = process_customer_id(customer_id)
+            # Display the results
+            results_container.write(results)
+        else:
+            results_container.error("Please enter a valid Customer ID.")
+
+    # Button to get recommendations
+    if st.button("Recommend"):
+        if customer_id:
+            # Get recommendations
+            recommendations = recommend_for_customer(customer_id)
+            # Display the recommendations
+            recommendation_container.write(recommendations)
+        else:
+            recommendation_container.error("Please enter a valid Customer ID.")
+
+# Entry point
+if __name__ == "__main__":
+    main()
