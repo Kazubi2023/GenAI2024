@@ -1,5 +1,8 @@
 # Importing necessary libraries
 import streamlit as st
+from PIL import Image
+import requests
+from io import BytesIO
 
 # Function to simulate a pipeline processing a customer ID
 def process_customer_id(customer_id):
@@ -13,6 +16,17 @@ def recommend_for_customer(customer_id):
 
 # Streamlit app
 def main():
+    # Load an image from a URL
+    image_url = "https://example.com/path/to/cool-image.jpg"  # Replace with your image URL
+    response = requests.get(image_url)
+    img = Image.open(BytesIO(response.content))
+    
+    # Alternatively, you can load an image from a local file
+    # img = Image.open("path/to/local/image.jpg")
+
+    # Display the image at the top of the app
+    st.image(img, use_column_width=True)
+
     # Set the title of the Streamlit app
     st.title("Customer Pipeline and Recommendations")
 
